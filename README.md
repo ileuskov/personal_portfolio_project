@@ -1,6 +1,6 @@
 Hey there! This is a small but tough project. It is my little portfolio built with Django 3.0
 
-This is a pretty simple django app that has a couple of dynamicalyl created web pages:
+This is a pretty simple django app that has a couple of dynamically created web pages:
 1) Home page (/home) with my photo and a couple of projects from github
 2) Blog page (/blog) with short previews with my blog stories
 3) Every single blog can be clicked on and read in a separate page.
